@@ -1,0 +1,1 @@
+'Esse projeto não necessita de nenhum outro pacote'
