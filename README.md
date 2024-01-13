@@ -1,7 +1,7 @@
 # Calculadora Simples
 
 ### Description
-Esse é um pacote que funciona como uma calculadora. Ele possui um menu para que você possa escolher a operação desejada. Caso você deseja sair do programa, ou seja, parar de fazer operações, basta apenas digitar o numero '0' quando estiver no menu de seleção de operações.
+Esse é um pacote que funciona como uma calculadora. Ele possui um menu para que você possa escolher a operação desejada. Caso você queira parar de fazer operações, basta apenas digitar o numero '0' quando estiver no menu de seleção de operações.
 
 ## Instalação
 
