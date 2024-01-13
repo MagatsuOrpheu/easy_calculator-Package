@@ -13,7 +13,7 @@ setup(
     author_email='jonathan.gabrielfm@gmail.com',
     description='An easy calculator for tests.',
     long_description=page_description,
-    url='My_github_repository_project_link',
+    url='https://github.com/MagatsuOrpheu/easy_calculator-package',
     packages=find_packages(),
     install_requirements=requirements,
     python_requires='>=3.8',
